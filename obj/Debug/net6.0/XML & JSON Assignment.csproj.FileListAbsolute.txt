@@ -1,0 +1,19 @@
+C:\Users\wille\source\repos\XML & JSON Assignment\bin\Debug\net6.0\XML & JSON Assignment.exe
+C:\Users\wille\source\repos\XML & JSON Assignment\bin\Debug\net6.0\XML & JSON Assignment.deps.json
+C:\Users\wille\source\repos\XML & JSON Assignment\bin\Debug\net6.0\XML & JSON Assignment.runtimeconfig.json
+C:\Users\wille\source\repos\XML & JSON Assignment\bin\Debug\net6.0\XML & JSON Assignment.dll
+C:\Users\wille\source\repos\XML & JSON Assignment\bin\Debug\net6.0\XML & JSON Assignment.pdb
+C:\Users\wille\source\repos\XML & JSON Assignment\obj\Debug\net6.0\XML & JSON Assignment.csproj.AssemblyReference.cache
+C:\Users\wille\source\repos\XML & JSON Assignment\obj\Debug\net6.0\XML & JSON Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\source\repos\XML & JSON Assignment\obj\Debug\net6.0\XML & JSON Assignment.AssemblyInfoInputs.cache
+C:\Users\wille\source\repos\XML & JSON Assignment\obj\Debug\net6.0\XML & JSON Assignment.AssemblyInfo.cs
+C:\Users\wille\source\repos\XML & JSON Assignment\obj\Debug\net6.0\XML & JSON Assignment.csproj.CoreCompileInputs.cache
+C:\Users\wille\source\repos\XML & JSON Assignment\obj\Debug\net6.0\XML & JSON Assignment.dll
+C:\Users\wille\source\repos\XML & JSON Assignment\obj\Debug\net6.0\refint\XML & JSON Assignment.dll
+C:\Users\wille\source\repos\XML & JSON Assignment\obj\Debug\net6.0\XML & JSON Assignment.pdb
+C:\Users\wille\source\repos\XML & JSON Assignment\obj\Debug\net6.0\XML & JSON Assignment.genruntimeconfig.cache
+C:\Users\wille\source\repos\XML & JSON Assignment\obj\Debug\net6.0\ref\XML & JSON Assignment.dll
+C:\Users\wille\source\repos\XML & JSON Assignment\bin\Debug\net6.0\SampleCSV.csv
+C:\Users\wille\source\repos\XML & JSON Assignment\bin\Debug\net6.0\SampleJSON.json
+C:\Users\wille\source\repos\XML & JSON Assignment\bin\Debug\net6.0\SamplePipe.txt
+C:\Users\wille\source\repos\XML & JSON Assignment\bin\Debug\net6.0\SampleXML.xml
